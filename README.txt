@@ -19,7 +19,7 @@ MySQL 5.5.25
 ДОП ИНФО
 ----------
 Также можете посмотреть видео с объяснением как это работает.
-https://www.youtube.com/watch?v=svCf1oxsK64&feature=youtu.be
+https://rutube.ru/list/video/835248daae9e33d9b1d3f4be52eaf3b6/
 
 
 Всем удачи и добра :)
